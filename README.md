@@ -12,5 +12,7 @@ Machine Learning é uma técnica que implica em construir modelos de análise au
  - Validação Cruzada (k-fold)
  - Normalização
  - Curva ROC
+ - Matriz de Confusão
+ - Correlação de Pearson
  - Análise de R2
  - Ajuste de R2
